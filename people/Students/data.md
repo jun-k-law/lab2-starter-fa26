@@ -5,7 +5,7 @@
 
 ## Favorites
 Favorite CSE29 topic(s): Counting
-\\ Favorite UCSD class: MCWP 125
+Favorite UCSD class: MCWP 125
 
 Favorite food: Yakiniku
 Favorite drink: Coke Zero
